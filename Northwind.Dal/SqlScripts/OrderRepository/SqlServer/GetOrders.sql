@@ -1,0 +1,11 @@
+﻿SELECT [OrderID]
+      ,[OrderDate]
+      ,[RequiredDate]
+      ,[ShippedDate]
+      ,[ShipName]
+      ,[ShipAddress]
+      ,[ShipCity]
+      ,[ShipRegion]
+      ,[ShipPostalCode]
+      ,[ShipCountry]
+  FROM [dbo].[Orders];
